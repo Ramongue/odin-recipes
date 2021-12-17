@@ -1,17 +1,122 @@
-*{
-    margin: 0;
-    padding:0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
 .cuerpo {
-    text-align:;
-    background-color: #70a1ff
+  text-align: center;
+  background-color: #70a1ff;
 }
 
-.division {
-    width: 960px
+.division1 {
+  width: 906px;
+  margin: auto;
+  background-color: #a4b0be;
 }
 
-.division, .cabezera, .imagen, .seccion-1, .seccion-2, .seccion-3, .pie {
-    border: 1px solid black;
+.cabezera {
+  width: 400px;
+  margin: auto;
+  padding: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: green;
+}
+
+.titulo1 {
+  font-size: 35px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.division2 {
+  width: 900px;
+  margin: auto;
+  padding: 5px;
+  padding-left: 1px;
+  background-color: #a4b0be;
+}
+
+.imagen1 {
+  width: 202px;
+  margin-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.imagen2 {
+  width: 301px;
+  margin: auto;
+  padding-top: 21px;
+  padding-bottom: 21px;
+}
+
+.imagen3 {
+  width: 202px;
+  margin-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.titulo2 {
+  text-align: left;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 234px;
+  margin-right: 234px;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-bottom: 5px;
+  background-color: #a4b0be;
+}
+
+.parrafo {
+  text-align: left;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 234px;
+  margin-right: 234px;
+  padding: 20px;
+  background-color: #a4b0be;
+}
+
+.titulo3 {
+  text-align: left;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 234px;
+  margin-right: 234px;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-bottom: 5px;
+  background-color: #a4b0be;
+}
+
+.titulo4 {
+  text-align: left;
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 234px;
+  margin-right: 834px;
+  padding: 18px;
+  background-color: #a4b0be;
+}
+
+.lista1 {
+  text-align: left;
+}
+
+.division1,
+.division2,
+.titulo2,
+.titulo4,
+.parrafo,
+.titulo3,
+.division5,
+.division6,
+.cabezera,
+.seccion1,
+.seccion2,
+.seccion3,
+.pie {
+  border: 1px solid black;
 }
