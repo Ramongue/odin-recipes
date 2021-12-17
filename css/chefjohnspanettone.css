@@ -97,20 +97,86 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-left: 234px;
   margin-right: 834px;
-  padding: 18px;
+  padding: 10px;
   background-color: #a4b0be;
 }
 
 .lista1 {
   text-align: left;
+  margin-left: 234px;
+  margin-right: 834px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  background-color: #a4b0be;
 }
 
-.division1,
-.division2,
-.titulo2,
+.lista1 li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  list-style: none;
+  margin-left: 30px;
+}
+
+.titulo5 {
+  text-align: left;
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 234px;
+  margin-right: 834px;
+  padding: 10px;
+  background-color: #a4b0be;
+}
+
+.lista2 {
+  text-align: left;
+  margin-left: 234px;
+  margin-right: 834px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  background-color: #a4b0be;
+}
+
+.lista2 li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  list-style: none;
+  margin-left: 30px;
+}
+
+.titulo6 {
+  text-align: left;
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 542px;
+  margin-right: 542px;
+  padding: 10px;
+  position: relative;
+  top: -296px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  background-color: #a4b0be;
+}
+
+.lista3 {
+  text-align: left;
+  margin-left: 542px;
+  margin-right: 542px;
+  padding: 10px;
+  position: relative;
+  top: -297px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: #a4b0be;
+}
+
+.lista3 li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  list-style: none;
+  margin-left: 30px;
+}
 .titulo4,
-.parrafo,
-.titulo3,
+.titulo6,
+.lista3,
 .division5,
 .division6,
 .cabezera,
