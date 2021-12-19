@@ -1,0 +1,111 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.fondoprimario {
+  background-color: #70a1ff;
+}
+
+.cabeza {
+  width: 980px;
+  margin: auto;
+  background-color: #a4b0be;
+}
+
+.cabeza h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: green;
+}
+
+.imagen-1 {
+  width: 300px;
+  margin-left: 30px;
+  padding: 20px;
+}
+
+.imagen-2 {
+  width: 169px;
+  margin-left: 10px;
+  padding: 20px;
+}
+.imagen-3 {
+  width: 300px;
+  margin-left: 15px;
+  padding: 20px;
+}
+
+.cuerpo {
+  width: 980px;
+  margin: auto;
+  background-color: #a4b0be;
+}
+
+.cuerpo h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.cuerpo p {
+  text-align: left;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 20px;
+}
+
+.cuerpo ul {
+  padding: 20px;
+}
+
+.cuerpo li {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 83px;
+  padding: 5px;
+}
+
+.pie {
+  width: 980px;
+  margin: auto;
+  background-color: #a4b0be;
+}
+
+.pie h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.pie ol {
+  padding: 20px;
+}
+
+.pie li {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 83px;
+  padding: 5px;
+}
+
+.piedepagina {
+  width: 960px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: auto;
+  padding: 10px;
+  background-color: yellow;
+}
+
+.piedepagina a {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
