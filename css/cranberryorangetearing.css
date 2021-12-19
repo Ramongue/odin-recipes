@@ -1,0 +1,172 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.cuerpo {
+  background-color: #70a1ff;
+}
+
+.divisionprincipal {
+  width: 980px;
+  margin: auto;
+  background-color: #a4b0be;
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: green;
+}
+
+.seccion-1 {
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 15px;
+}
+
+.imagen-1 {
+  width: 200px;
+  margin-left: 50px;
+}
+
+.imagen-2 {
+  width: 229px;
+  margin-left: 50px;
+}
+
+.imagen-3 {
+  width: 200px;
+  margin-left: 50px;
+}
+
+.titulo-1 {
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 15px;
+}
+
+.parrafo-1 {
+  text-align: left;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 20px;
+}
+
+.divisionsecundaria {
+  display: inline-block;
+  width: 980px;
+  margin-left: 198px;
+  margin-bottom: -4px;
+  background-color: #a4b0be;
+}
+
+.seccion-2,
+.seccion-3,
+.seccion-4 {
+  float: left;
+}
+
+.seccion-2 {
+  width: 274px;
+  height: 348px;
+  margin-left: 70px;
+}
+
+.titulo-2 {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.seccion-2 li {
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5px;
+}
+
+.seccion-3 {
+  width: 260px;
+  height: 348px;
+}
+
+.titulo-3 {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.seccion-3 li {
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5px;
+}
+
+.seccion-4 {
+  width: 300px;
+  height: 348px;
+  margin-right: ;
+}
+
+.titulo-4 {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.seccion-4 li {
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5px;
+}
+
+.divisiontercearia {
+  display: inline-block;
+  width: 982px;
+  margin-left: 198px;
+  background-color: #a4b0be;
+}
+
+.titulo-6 {
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 15px;
+}
+
+.seccion-5 li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 22px;
+  padding: 15px;
+}
+
+.divisioncuarta {
+  border: 1px solid black;
+  margin-left: 197px;
+  margin-right: 197px;
+  background-color: #a4b0be;
+}
+
+.titulo-pie {
+  text-align: center;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5px;
+  background-color: yellow;
+}
